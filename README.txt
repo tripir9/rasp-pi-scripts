@@ -1,1 +1,4 @@
+Readme
+======
+
 This repository contains a bunch of python and bash scripts I will use to automatice my Raspberry Pi.
